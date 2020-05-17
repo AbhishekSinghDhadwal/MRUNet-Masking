@@ -13,3 +13,6 @@ features (lips and eyes in our case).
 Link to the [CelebAMask-HQ dataset](https://github.com/switchablenorms/CelebAMask-HQ/blob/master/README.md) used for this investigation
 
 Link to the original MultiRes-U-Net implementation is [here](https://github.com/nibtehaz/MultiResUNet).
+
+![Demo Picture](/DemoOutput.png)
+*Output for a random image using the FD10 model in the project.*
